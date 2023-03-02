@@ -1,0 +1,8 @@
+127.0.0.1 - - [01/Mar/2023:10:48:47 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [01/Mar/2023:10:50:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Mar/2023:10:50:20 +0530] "GET /CEJP01_Day17_SpringMVCCRUDDemo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2023:10:50:22 +0530] "GET /CEJP01_Day17_SpringMVCCRUDDemo/customer/list HTTP/1.1" 200 4057
+0:0:0:0:0:0:0:1 - - [01/Mar/2023:10:50:23 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Mar/2023:10:50:30 +0530] "GET /CEJP01_Day17_SpringMVCCRUDDemo/customer/showFormForUpdate?customerId=2 HTTP/1.1" 200 1442
+0:0:0:0:0:0:0:1 - - [01/Mar/2023:10:50:49 +0530] "POST /CEJP01_Day17_SpringMVCCRUDDemo/customer/saveCustomer HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2023:10:50:49 +0530] "GET /CEJP01_Day17_SpringMVCCRUDDemo/customer/list HTTP/1.1" 200 4060
