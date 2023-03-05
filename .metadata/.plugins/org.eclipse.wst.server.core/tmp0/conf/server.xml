@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\programming\java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\programming\java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\CEJP01_Day17_SpringMVCCRUDDemo" path="/CEJP01_Day17_SpringMVCCRUDDemo" reloadable="true" source="org.eclipse.jst.jee.server:CEJP01_Day17_SpringMVCCRUDDemo"/><Context docBase="D:\programming\java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Nest_javaTrainingAssignment9" path="/Nest_javaTrainingAssignment9" reloadable="true" source="org.eclipse.jst.jee.server:Nest_javaTrainingAssignment9"/></Host>
+      <Context docBase="D:\programming\java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\programming\java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\NestAssignment_10" path="/CEJP01_Day17_SpringMVCCRUDDemo" reloadable="true" source="org.eclipse.jst.jee.server:NestAssignment_10"/></Host>
     </Engine>
   </Service>
 </Server>
